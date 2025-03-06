@@ -6,4 +6,6 @@ edition = "2021"
 [dependencies]
 console_error_panic_hook = "0.1.7"
 rltk = "0.8.7"
+specs = "0.20.0"
+specs-derive = "0.4.1"
 web-sys = { version = "0.3.77", features = ["Window", "Document", "HtmlElement", "Text"] }
